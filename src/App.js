@@ -290,6 +290,7 @@ export default function App() {
                   bgcolor: "#3C6595",
                 },
               }}
+              disabled={true}
             >
               SAVE ANALYSIS
             </Button>
